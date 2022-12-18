@@ -71,7 +71,7 @@
   <a href="https://facebook.com/huoquandace" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="huoquandace-facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UCwiikmLh7OaZxT2IQYiyifg" target="blank">
+  <a href="https://www.youtube.com/channel/huoquandace" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="huoquandace-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/huoquandace" target="blank">
