@@ -1,3 +1,4 @@
+<!-- 
 <!-- Portgas D.Ace -->
 <a href="#" target="_blank">
   <img src="svg/huoquandace.svg" width="1200" alt="huoquandace-official" />
@@ -92,3 +93,4 @@
   <img src="svg/huoquandace-quotes.svg" width="846" height="150" alt="huoquandace-official" />
 </a>
 
+ -->
